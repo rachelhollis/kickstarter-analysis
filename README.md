@@ -23,3 +23,28 @@ There appears to be a strong correlation between the time of year and success of
 ![Theater_outcome_vs_launch_pivot](Theater_outcome_vs_launch_pivot.png)
 ![theateroutcomes_launch_percentage](theateroutcomes_launch_percentage.png)
 
+There is a small increase in the number of failed campaigns around the same time period of April through June where we see the biggest spike in successful campaigns. However, this isn’t troubling because the total number of campaigns increases significantly for these months. The percentage of failed campaigns stays relatively stable throughout the year at around 35%. This analysis shows that successful outcomes can be highly impacted by the time of year.
+
+### Analysis of Outcomes Based on Goals
+
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
+To determine a campaign’s outcome, the funding goal must be reached. This analysis compares the funding goal to the outcome to determine any impact the funding goal might have for the subcategory Plays. Right off the bat, there have been no canceled Play campaigns therefore no observations can be made. Per the graph, funding goals of $19,999 or less have a higher success rate than failed. However, in the $10,000 to $19,999 range the percentage of successful and failed are relatively close. This is a risky range for a funding goal. Goals below $9,999 have a much higher chance of success. The goal range of $1,000 to $4,999 has the highest number of campaigns 534, with the highest number of successful outcomes 388 (73%). It also has the highest number of failed outcomes is 146, however it only makes up 27% of the total projects for this range. It appears that an overly ambitious funding goal is not wise for play campaigns. The failed percentage rises significantly from around 40% to 60%-80% by increasing the funding goal above $20,000.
+
+#### Challenges and Difficulties Encountered
+![outcomes_vs_goals_pivot](outcomes_vs_goals_pivot.png)
+
+There is a significantly higher number of campaigns with a lower funding goal. Therefore, it is hard to compare percentages with a funding goal of 204 projects to a funding goal with only 1 project. Per the graph, there appears to be a spike in successful campaigns in the $40,000-$44,999 range however there was only 3 total projects. With only 3 projects, the data is very small and not as reliable. This analysis has flaws but it does provide a general idea. There must be other crucial reasons as to why Play campaigns typically don’t have a higher funding goal. With that in mind, and the higher success rate of campaigns with a lower funding goal, future campaigns can make an educated decision when determining their goal. 
+
+## Results
+
+### Overview
+
+Between the months of April and July, there is a significantly higher number of campaigns with a success outcome than any other time of year. Therefore, if a campaign has a flexible schedule, it would be wise to launch in those summer months. The time of year doesn’t appear to affect the failed and cancelled outcomes and more analysis would be needed to determine the cause of a failed campaign. There is also a pattern of more campaigns launching in the summer months than any other time of year, in fact some months double that of January and December. Theater campaigns have a seasonal trend of launch and success. 
+
+There is a substantial amount of Play campaigns with a funding goal below $20,000. On the other hand, there are only 62 campaigns with a goal higher than $20,000 out of a total of 1065 campaigns. That is only 6% of the total campaigns. Not only is there a higher number of campaigns with a lower goal, but there is also a higher percentage of successful outcomes then failed outcomes. Based on this, there is a higher risk of choosing a higher funding goal and very little data to go off. There is a key reason to why Plays have a higher success rate at a lower funding goal and more analysis would be needed to determine why. However, with both stats, a campaign can conclude a realistic outcome based on their funding goal and it would be sensible to choose a lower funding goal if possible. 
+
+### Key Findings
+
+* Theater Kickstarters have an overall higher rate of success then failure. Pursuing a campaign in this category would be sensible.
+* Summer launch dates have historically been more successful than plays launched in the winter months. If possible, launch campaign in the summer months.
+* Higher funding goals are not as successful as lower funding goals. Reducing a higher goal may lead to a higher chance of success.
