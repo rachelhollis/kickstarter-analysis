@@ -48,3 +48,15 @@ There is a substantial amount of Play campaigns with a funding goal below $20,00
 * Theater Kickstarters have an overall higher rate of success then failure. Pursuing a campaign in this category would be sensible.
 * Summer launch dates have historically been more successful than plays launched in the winter months. If possible, launch campaign in the summer months.
 * Higher funding goals are not as successful as lower funding goals. Reducing a higher goal may lead to a higher chance of success.
+
+
+### Limitations of the Dataset
+
+There is no data of the campaign itself available for analysis. There could be many reasons that contribute to a failed campaign outside of the Kickstarter data. For example, a campaign could have failed because there wasn’t enough publicity despite having launched in the summer months with a goal of $5,000. 
+
+The data also included several Kickstarters that were live during analysis. This data was of no use in determining the success or failure of campaigns. 
+
+### Possible analysis 
+
+It could be beneficial to analyze outcomes based on length of the campaign based on launch date and the predetermined deadline. The length of the campaign may be a key factor of success. 
+In addition, analyzing the stats on the pledged amount to the number of backers can give us an idea of what contributed to success. For example, if there were a lower number of backers with a high pledge amount that might indicate the campaign was only successful because of that backer and could be difficult to recreate. Furthermore, campaigns with a lot of backers could indicate what types of campaigns tend to be more successful or a favorite to donors.
