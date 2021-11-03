@@ -7,10 +7,11 @@ Kickstarter data was used to perform an analysis on the potential relationships 
 
 ## Analysis and Challenges
 ### General
+![Theater_outcomes_total](theater_outcomes_total.png)
+
 For the purpose of this analysis, live campaigns are omitted from the data set. Live campaign data does not provide any insight into campaign outcomes for Louise. 
 
 In total, there are 1,369 theater campaigns in the Kickstarter data set.  Out of this data, there are 839 successful campaigns (61%) and 493 failed campaigns (36%). Out of the three categories under theater, plays contributed the most. Drilling deeper into the play subcategory, there is a total of 1,047 campaigns with 694 (51%) successful and 353 (26%) failed campaigns. There are no canceled campaigns in the play category but there is a total of 37 failed campaigns in the whole theater parent category.
-![Theater_outcomes_total](theater_outcomes_total.png)
 
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
@@ -28,6 +29,7 @@ There is a small increase in the number of failed campaigns around the same time
 ### Analysis of Outcomes Based on Goals
 
 ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
+
 To determine a campaign’s outcome, the funding goal must be reached. This analysis compares the funding goal to the outcome to determine any impact the funding goal might have for the subcategory Plays. Right off the bat, there have been no canceled Play campaigns therefore no observations can be made. Per the graph, funding goals of $19,999 or less have a higher success rate than failed. However, in the $10,000 to $19,999 range the percentage of successful and failed are relatively close. This is a risky range for a funding goal. Goals below $9,999 have a much higher chance of success. The goal range of $1,000 to $4,999 has the highest number of campaigns 534, with the highest number of successful outcomes 388 (73%). It also has the highest number of failed outcomes is 146, however it only makes up 27% of the total projects for this range. It appears that an overly ambitious funding goal is not wise for play campaigns. The failed percentage rises significantly from around 40% to 60%-80% by increasing the funding goal above $20,000.
 
 #### Challenges and Difficulties Encountered
