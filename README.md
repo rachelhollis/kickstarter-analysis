@@ -52,7 +52,7 @@ There is a substantial amount of Play campaigns with a funding goal below $20,00
 * Theater Kickstarters have an overall higher rate of success then failure. Pursuing a campaign in this category would be sensible.
 * Summer launch dates have historically been more successful than plays launched in the winter months. If possible, launch campaign in the summer months.
 * Higher funding goals are not as successful as lower funding goals. Reducing a higher goal may lead to a higher chance of success.
-* A funding goal of $1,000 to $4,999 has the number and percentage of successful outcomes.
+* A funding goal of $1,000 to $4,999 has the highest number and percentage of successful outcomes.
 
 
 ### Limitations of the Dataset
